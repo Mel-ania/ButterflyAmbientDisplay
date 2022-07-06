@@ -6,6 +6,4 @@
 This Butterfly model was born as an Ambient Display for helping university students with monitoring the progress of courses, single and group projects, exercises and exams during Covid-19 pandemic.
 The ambient display is associated with an application for smartphones, tablets and smartwatches with consistent UI.
 
-<sub>Technologies: Blender, Axure, Adobe Photoshop</sub>
-
 For other information on this object, please check out the [documentation](Documenti) (only available in Italian).
